@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mte:home|Door43 (mte)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mte|d43-mte repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mte/archive/master.zip|d43-mte.zip]]
+
+**Recent Changes**
+{{changes>ns = mte}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mte|Ethnologue data]]
+
